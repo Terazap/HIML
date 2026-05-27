@@ -177,7 +177,7 @@ It covers:
 ```
 ┌─────────────────────────────────────────┐
 │     LAYER 5 — INTENT LAYER              │
-│              HIML          ← YOU ARE HERE│
+│              HIML         ← YOU ARE HERE│
 │  Human-written. Carries intent, stakes, │
 │  constraints, and escalation conditions.│
 ├─────────────────────────────────────────┤
@@ -255,7 +255,7 @@ The strongest version of HIML will be forged in rigorous debate, not protected f
 ```
 HIML: Human Intent Markup Language — A Proposal for the
 Missing Layer of the Agentic Web. Version 1.0. 2026.
-Available at: github.com/[username]/himl
+Available at: https://github.com/Terazap/HIML
 ```
 
 ---
