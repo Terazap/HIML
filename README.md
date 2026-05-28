@@ -157,7 +157,7 @@ LLMs trained on structured text read and follow HIML syntax natively. The dedica
 
 The full specification is in the whitepaper:
 
-📄 **[HIML_Whitepaper_v1.0.pdf](./HIML_Whitepaper_v1.0.pdf)**
+📄 **[HIML_Whitepaper_v1.0.pdf](./HIML_Whitepaper_v1.0..pdf)**
 
 It covers:
 - The problem in depth — with real-world failure examples
